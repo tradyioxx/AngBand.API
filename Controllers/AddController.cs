@@ -1,4 +1,4 @@
-﻿using AngBand.Core2;
+﻿using AngBand.Core;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AngBang.API.Controllers
@@ -12,6 +12,7 @@ namespace AngBang.API.Controllers
         {
             var addition = new Addition(x, y);
             return addition.Resultat;
+
         }
     }
 }
