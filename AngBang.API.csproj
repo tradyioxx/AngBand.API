@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="AngBand.Core2" Version="1.0.0" />
+    <PackageReference Include="AngBand.Core" Version="1.0.0" />
   </ItemGroup>
 
 
