@@ -1,0 +1,12 @@
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\bin\Debug\netcoreapp3.1\AngBang.API.exe
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.csprojAssemblyReference.cache
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.AssemblyInfoInputs.cache
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.AssemblyInfo.cs
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.RazorTargetAssemblyInfo.cache
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\staticwebassets\AngBang.API.StaticWebAssets.Manifest.cache
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\staticwebassets\AngBang.API.StaticWebAssets.xml
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.csproj.CoreCompileInputs.cache
+C:\Users\sedup\source\repos\AngBang.API\AngBang.API\obj\Debug\netcoreapp3.1\AngBang.API.MvcApplicationPartsAssemblyInfo.cache
