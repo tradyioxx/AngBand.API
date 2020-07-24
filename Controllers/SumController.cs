@@ -12,6 +12,7 @@ namespace AngBang.API.Controllers
         {
             var somme = new Somme(n);
             return somme.Resultat;
+
         }
     }
 }
